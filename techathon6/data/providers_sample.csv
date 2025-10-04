@@ -1,0 +1,7 @@
+id,name,phone,address,city,specialization,license_no
+1,Dr. Rajesh Kumar,9876543210,"Old Market Rd, Connaught Place","New Delhi",Cardiologist,DL-12345
+2,Dr. Priya Sharma,9834567890,"12 MG Road","Mumbai",Dermatologist,MH-54321
+3,Dr. Amit Verma,,"No. 5, Baker Street","Kolkata",Orthopedics,WB-11223
+4,Dr. Sangeeta Rao,9812345678,"","Bengaluru",General Physician,KA-99887
+5,Dr. Vinod Gupta,08012340000,"Old Town","Bengaluru",ENT,KA-66778
+6,Dr. Fake Name,9999999999,"Unknown address","Unknown",Cardiology,
